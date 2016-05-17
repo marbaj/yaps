@@ -1,0 +1,17 @@
+{
+  "name": "Bombarder",
+  "version": "0.0.1",
+  "dependencies": {
+    "commander": "~2.9.0",
+    "freeport": "^1.0.5",
+    "phantomjs": "2.1.7",
+    "q": "~1.4.1",
+    "request": ">2.7.0",
+    "single-line-log": ">=1.1.1",
+    "tough-cookie-filestore": "~0.0.1",
+    "util": ">=0.10.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
